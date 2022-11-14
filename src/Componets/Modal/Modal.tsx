@@ -1,6 +1,6 @@
 import React from 'react';
 import Backdrop from "../Backdrop";
-import {btnModal} from "../types";
+import {btnModal} from "../../types";
 import {motion, AnimatePresence} from "framer-motion";
 
 interface Props extends React.PropsWithChildren{
